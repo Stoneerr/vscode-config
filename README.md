@@ -1,2 +1,1 @@
-# vscode-config
-Visual Studio Code configuration files
+# My Visual Studio Code Configuration Files
